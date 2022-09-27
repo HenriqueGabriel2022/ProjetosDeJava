@@ -1,7 +1,9 @@
 package br.edu.ifgoiano.funcao;
 
 public class FuncaoSoma {
-    public int Somar(int a, int b, int c){
-        return a+b+c;
+    //Usando o Método sem retorna Valor
+    public void Somando( int a, int b, int c){
+        int soma = a+b+c;
+        System.out.println(soma);
     }
 }
