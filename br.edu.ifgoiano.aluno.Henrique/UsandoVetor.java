@@ -8,7 +8,9 @@ public class UsandoVetor {
             vetor[i] = i;
             vetor[i] *= vetor[i];
             System.out.println(vetor[i]);
-
         }
+
+        System.out.println("O Código Rodou.");
+
     }
 }
