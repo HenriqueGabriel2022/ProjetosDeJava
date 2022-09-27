@@ -6,4 +6,6 @@ public class FuncaoSoma {
         int soma = a+b+c;
         System.out.println(soma);
     }
+
+
 }
