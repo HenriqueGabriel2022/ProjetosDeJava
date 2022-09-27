@@ -1,3 +1,5 @@
+package br.edu.ifgoiano.aluno.Henrique;
+
 import br.edu.ifgoiano.funcao.FuncaoSoma;
 public class Principal {
     public static void main(String[] args) {
