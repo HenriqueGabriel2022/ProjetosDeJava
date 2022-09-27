@@ -10,7 +10,7 @@ public class UsandoVetor {
             System.out.println(vetor[i]);
         }
 
-        System.out.println("O Código Rodou.");
+        //Valores Multiplicados
 
     }
 }
